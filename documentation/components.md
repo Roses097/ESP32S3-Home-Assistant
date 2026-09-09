@@ -1,8 +1,8 @@
-### Documentation des composants
+# Documentation des composants
 
-##### Micro
-component : INMP441
-pin connection : 
+### Micro
+component : INMP441  
+pin connection :  
 | pin micro | pin esp32 |
 | --------- | --------- |
 | VDD       | 3.3V      |
@@ -12,9 +12,9 @@ pin connection :
 | WS        | GPIO 42   |
 | SD        | GPIO 40   |
 
-##### Haut parleur et amplifier I2S
-component :
-pin connection :
+### Haut parleur et amplifier I2S
+component :  
+pin connection :  
 | pin     | pin esp32 |
 | ------- | --------- |
 | VIN/VCC | 5V/VIN    |
@@ -25,9 +25,9 @@ pin connection :
 | GAIN    | none      |
 | SD      | none      |
 
-##### TFT 3.5" tactile Screen
-component : 
-pin connection :
+### TFT 3.5" tactile Screen
+component :  
+pin connection :  
 | pin ecran | pin esp32     |
 | --------- | ------------- |
 | VCC       | 3.3V ou 5V    |
