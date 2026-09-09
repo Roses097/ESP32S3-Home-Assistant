@@ -12,8 +12,8 @@ pin connection :
 | WS        | GPIO 42   |
 | SD        | GPIO 40   |
 
-### Haut parleur et amplifier I2S
-component :  
+### Haut parleur et amplificateur audio I2S
+component : puce NS4168  
 pin connection :  
 | pin     | pin esp32 |
 | ------- | --------- |
@@ -26,7 +26,7 @@ pin connection :
 | SD      | none      |
 
 ### TFT 3.5" tactile Screen
-component :  
+component : ILI9488  
 pin connection :  
 | pin ecran | pin esp32     |
 | --------- | ------------- |
