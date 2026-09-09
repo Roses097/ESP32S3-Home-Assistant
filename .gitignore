@@ -1,0 +1,12 @@
+# Fichiers de configuration du Finder (macOS)
+.DS_Store
+.localized
+__MACOSX/
+
+# Fichiers de métadonnées ("resource forks")
+._*
+
+# Fichiers liés au stockage système / disques externes
+.Spotlight-V100
+.Trashes
+.fseventsd
