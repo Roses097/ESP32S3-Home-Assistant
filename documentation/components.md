@@ -26,7 +26,7 @@ pin connection :
 | SD      | none      |
 
 ### TFT 3.5" tactile Screen
-component : ILI9488  
+component : ILI9488   
 pin connection :  
 | pin ecran | pin esp32     |
 | --------- | ------------- |
