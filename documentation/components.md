@@ -44,3 +44,5 @@ pin connection :
 | T_DIN     | GPIO 11 (SDI) |
 | T_DO      | GPIO 13 (SDO) |
 | T_IRQ     | none          |
+
+# 
