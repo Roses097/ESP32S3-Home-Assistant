@@ -14,4 +14,5 @@
 -> recherches d'API pour le projets (cf APIs)
 
 ### Séance du 30/09
--> test de l'écran definitif ()
+-> test de l'écran definitif (ILI9341 avec touch)
+-> suite des recherches d'API
