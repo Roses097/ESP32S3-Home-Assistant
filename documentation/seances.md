@@ -16,3 +16,7 @@
 ### Séance du 30/09
 -> test de l'écran definitif (ILI9341 avec touch)
 -> suite des recherches d'API
+
+### Séance du 14/10
+-> recherche de modèles pour le text to speech/brain/speech to text
+-> test du text to speech et speech to text
