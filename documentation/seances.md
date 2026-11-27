@@ -20,3 +20,11 @@
 ### Séance du 14/10
 -> recherche de modèles pour le text to speech/brain/speech to text
 -> test du text to speech et speech to text
+
+### Séance du 25/11
+-> test du combo ecran + speech to text avec ESP_SR
+-> modification des réglages de l'arduino IDE à :
+        -> Flash size : 16MB (128Mb)
+        -> Partition Scheme : ESP SR 16M (3MB APP/7MB SPIFFS/2.9MB MODEL)
+        ->  PSRAM : OPI PSRAM 
+-> le code de test prend 57% de progamme storage et 18% de dynamic memory

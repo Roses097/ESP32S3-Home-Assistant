@@ -39,10 +39,8 @@ pin connection :
 | SCK       | GPIO 12       |
 | LED       | 3.3V          |
 | SDO/MISO  | GPIO 13       |
-| T_CLK     | GPIO 12 (SCK) |
-| T_CS      | GPIO 21       |
-| T_DIN     | GPIO 11 (SDI) |
-| T_DO      | GPIO 13 (SDO) |
+| T_CLK     | GPIO 12 (SCK) | #update : None
+| T_CS      | GPIO 21       | #update : None
+| T_DIN     | GPIO 11 (SDI) | #update : None
+| T_DO      | GPIO 13 (SDO) | #update : None
 | T_IRQ     | none          |
-
-# 
